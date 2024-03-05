@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a name="LinkedIn"></a>
+[LinkedIn](https://www.linkedin.com/in/kshithijmalebennur)
+
+
+My name is Kshithij Malebennur, and I am an engineering student at the University of Guelph. I am now working on the creation of augmented reality (AR) glasses with an artificial intelligence (AI) assistant. My passion with the Iron Man movie series has had a big impact on my project interests, notably in the field of new technology. This motivation prompted me to start a large project in 2016, which will end in 2023, to create an AI assistant with self-learning skills, similar to Tony Stark's J.A.R.V.I.S.
+
+Over the last few years, I've developed my abilities in a variety of computer languages, including Python, C++, Java, HTML, CSS, JavaScript, and Robot Operating System (ROS). My primary concentration has been on AI-related programming tasks, including machine learning and natural language processing (NLP). Although machine learning remains my primary focus, I have broadened my knowledge to encompass backend engineering, as demonstrated by my work on a website for my clothes company.
+
 <!--
 **Kshithijm1/Kshithijm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
