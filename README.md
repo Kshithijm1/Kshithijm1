@@ -8,6 +8,8 @@ My name is Kshithij Malebennur, and I am an engineering student at the Universit
 
 Over the last few years, I've developed my abilities in a variety of computer languages, including Python, C++, Java, HTML, CSS, JavaScript, and Robot Operating System (ROS). My primary concentration has been on AI-related programming tasks, including machine learning and natural language processing (NLP). Although machine learning remains my primary focus, I have broadened my knowledge to encompass backend engineering, as demonstrated by my work on a website for my clothes company.
 
+Currently, I am working on enhancing and upgrading previous code. Many of my repositories are private and will become public in the near future after they have been upgraded.
+
 <!--
 **Kshithijm1/Kshithijm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
